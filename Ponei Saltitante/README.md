@@ -58,3 +58,13 @@ Sinta-se à vontade para contribuir com melhorias, ajustes ou novas funcionalida
 ## 📜 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## O Programa se inicia em Taverna.java
+
+Basta entrar na Taverna 🚪🍺
+
+![taverna1](https://github.com/user-attachments/assets/5a6ae8c8-1b05-4d37-8dd2-830d58afa3ad)
+
+Aqui mostra como estão sendo feitas as requisições
+
+![taverna2](https://github.com/user-attachments/assets/35068481-c043-4242-9574-e7d77d916165)
