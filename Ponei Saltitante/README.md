@@ -63,8 +63,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Basta entrar na Taverna 🚪🍺
 
-![taverna1](https://github.com/user-attachments/assets/5a6ae8c8-1b05-4d37-8dd2-830d58afa3ad)
+![poneisaltitante1](https://github.com/user-attachments/assets/16478efc-9bed-41b4-97f8-d7700036226b)
 
 Aqui mostra como estão sendo feitas as requisições
 
-![taverna2](https://github.com/user-attachments/assets/35068481-c043-4242-9574-e7d77d916165)
+![poneisaltitante2](https://github.com/user-attachments/assets/14371eb0-8ca8-4e93-a325-0618702255de)
